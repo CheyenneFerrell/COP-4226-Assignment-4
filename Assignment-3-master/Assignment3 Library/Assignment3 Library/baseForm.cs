@@ -61,5 +61,18 @@ namespace Assignment3_Library
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
 
+        private void colorsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ColorDialog dlg = new ColorDialog();
+            if (dlg.ShowDialog() == DialogResult.OK)
+            {
+                this.BackColor = dlg.Color;
+            }
+        }
+
+        private void closeChildToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
     }

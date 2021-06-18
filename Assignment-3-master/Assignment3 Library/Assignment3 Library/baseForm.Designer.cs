@@ -106,6 +106,7 @@ namespace Assignment3_Library
             this.colorsToolStripMenuItem.Name = "colorsToolStripMenuItem";
             this.colorsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.colorsToolStripMenuItem.Text = "Colors";
+            this.colorsToolStripMenuItem.Click += new System.EventHandler(this.colorsToolStripMenuItem_Click);
             // 
             // fileToolStripMenuItem
             // 
@@ -120,6 +121,7 @@ namespace Assignment3_Library
             this.closeChildToolStripMenuItem.Name = "closeChildToolStripMenuItem";
             this.closeChildToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.closeChildToolStripMenuItem.Text = "Close Child";
+            this.closeChildToolStripMenuItem.Click += new System.EventHandler(this.closeChildToolStripMenuItem_Click);
             // 
             // baseForm
             // 
