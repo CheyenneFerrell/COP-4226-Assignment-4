@@ -54,7 +54,6 @@ namespace Assignment3_MainApp
             this.OpenPreferencesModallyItem,
             this.OpenPreferencesModelesslyItem});
             this.ContextMenu.Name = "ContextMenu";
-            this.ContextMenu.OwnerItem = this.OpenContextMenu;
             this.ContextMenu.Size = new System.Drawing.Size(230, 48);
             // 
             // OpenPreferencesModallyItem
@@ -153,16 +152,13 @@ namespace Assignment3_MainApp
             this.MainMenuStrip = this.Menu;
             this.Name = "MainForm";
             this.Text = "MainForm";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Close_Application_M);
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.ContextMenu.ResumeLayout(false);
             this.Menu.ResumeLayout(false);
             this.Menu.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Close_Application_M);
-            pDialog.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.PreferencesDialog_Leave);
-            pDialog.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.PreferencesDialog_Closed);
-            
 
         }
 

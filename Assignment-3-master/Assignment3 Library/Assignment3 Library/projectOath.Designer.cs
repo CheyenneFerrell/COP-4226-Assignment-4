@@ -39,26 +39,27 @@ namespace Assignment3_Library
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoEllipsis = true;
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Papyrus", 9.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.Gray;
             this.label2.Location = new System.Drawing.Point(0, 0);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label2.MaximumSize = new System.Drawing.Size(600, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(582, 76);
+            this.label2.Size = new System.Drawing.Size(487, 88);
             this.label2.TabIndex = 0;
-            this.label2.Text = "I understand that this is a group project.\n\nIt is in my best interest to particip" +
-    "ate in writing the homeworks and study all the \ncode from the homework.";
+            this.label2.Text = "I understand that this is a group project.\r\n\r\nIt is in my best interest to partic" +
+    "ipate in writing the homeworks and study all the \r\ncode from the homework.";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // projectOath
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.Controls.Add(this.label2);
             this.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "projectOath";
-            this.Size = new System.Drawing.Size(586, 212);
+            this.Size = new System.Drawing.Size(600, 200);
             this.ResumeLayout(false);
             this.PerformLayout();
 

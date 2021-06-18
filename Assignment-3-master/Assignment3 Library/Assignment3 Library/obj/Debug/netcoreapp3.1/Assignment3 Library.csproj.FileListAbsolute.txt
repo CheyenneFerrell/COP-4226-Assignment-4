@@ -46,7 +46,6 @@ C:\Users\Brian\Desktop\Group Projects\Assignment-3-master\Assignment3 Library\As
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\bin\Debug\netcoreapp3.1\Assignment3 Library.deps.json
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\bin\Debug\netcoreapp3.1\Assignment3 Library.dll
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\bin\Debug\netcoreapp3.1\Assignment3 Library.pdb
-C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3 Library.csprojAssemblyReference.cache
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3_Library.baseForm.resources
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3_Library.courseInfo.resources
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3_Library.dialogForm.resources
@@ -59,3 +58,4 @@ C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Lib
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3 Library.dll
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3 Library.pdb
 C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3_Library.projectOath.resources
+C:\Users\Willi\Downloads\Assignment-3-master\Assignment-3-master\Assignment3 Library\Assignment3 Library\obj\Debug\netcoreapp3.1\Assignment3 Library.csproj.AssemblyReference.cache
